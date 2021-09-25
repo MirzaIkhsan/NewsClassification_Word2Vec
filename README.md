@@ -1,1 +1,1 @@
-# Word2Vec_DeepLearning
+# NewsClassification_Word2Vec
